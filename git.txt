@@ -1,0 +1,27 @@
+1. check for git
+git --version
+2. configure git
+git config --global user.name "jivanshu"
+git config --global user.email "jivanshusingh40@gmail.com"
+
+//push the project to github
+step 1 : initlialize the git repository
+ git init
+
+ step 2: check status
+ git status
+
+ step 3: add the files to staging area
+ git add . 
+
+ step 4: commit the project
+ git commit -m "first commit of my project"
+
+ check commit history
+ git log --onelineg
+
+ step 5: connect local project with github
+
+
+
+
